@@ -1,9 +1,9 @@
-# Summary
+# Table of contents
 
-## Overview 
-* [Welcome to coordination-play](welcome.md) 
-* [Why coordination play](why_coordination.md)
+## Overview
+
+* [Welcome to coordination-play](README.md)
+* [Why coordination play](why\_coordination.md)
 * [The coordination stack](stack.md)
 
-## How to use app 
-  
+## How to use app
