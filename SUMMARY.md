@@ -2,8 +2,9 @@
 
 ## Overview
 
-* [What is coordination-play](README.md)
-* [Why coordination-stack](why\_coordination.md)
+* [Introduction to CoordinationLab](README.md)
+* [What is coordination-stack?](why\_coordination.md)
+* [The vision of CoordinationLab](overview/the-vision-of-coordinationlab.md)
 * [The coordination stack](overview/stack/README.md)
   * [Attribution stack](overview/stack/attribution-stack.md)
   * [Governance stack](overview/stack/governance-stack.md)

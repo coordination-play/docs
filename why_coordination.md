@@ -1,45 +1,40 @@
-# Why coordination-stack
+# What is coordination-stack?
 
-In the traditional world, humans rely on legal documents to trust each other to create non-zero-sum games.
+Coordination-stack is a toolkit focusing on finance, identity, and governance to promote efficiency and scalability for internet-native organisations.
 
-## **Why do we need legal documents, and what are their limitations?**
+## Why coordination-stack?
 
-* We rely on employment agreements to ensure employers and employees can trust each other to follow certain rules and work towards a common goal.
-* Founders and Investors rely on SHAs(shareholding agreements) to trust each other, follow ethical practices, and produce great outcomes.
+Humans need to trust each other to coordinate and create non-zero sum output.&#x20;
 
-While these legal documents enable trust between two entities to coordinate, they are extremely costly in time and money. This cost makes traditional legal documents inflexible and fails to align incentives between individual entities to the edges.
+In traditional organisations, trust is established among different entities using different tools and processes.
 
-#### **Here are a few examples of how unconsciously traditional legal documents limit coordination.**
+* We rely on employment agreements to enable trust between companies and employees.&#x20;
+* In traditional companies, everyone works in the same physical office, so productivity is easy to measure(at least a perception of that).
+* Companies hire new people after spending much time and money on background checks and interviews.
 
-### **Startup Cofounders**
+But this is inefficient, especially in the time when we are moving to remote work. Now, people want to work from different places, with the people they like to work with on the problems they feel passionate about. More and more entrepreneurs are starting businesses with remote work cultures to attract talent. At the same time, many businesses are focusing on community-led growth. We call them internet-native organisations. In these types of organisations, 1000s or even millions of people play their part in making the organisation successful. Web3 communities are an example of that. We believe all organisations will operate like that in future.&#x20;
 
-Most Startup people might argue that having more than four cofounders is not ideal. Having ten cofounders in an early-stage project is almost impossible to imagine. But why can't a startup have ten people as cofounders contributing with different capacities and aligning incentives and decision-making power accordingly?
+These internet-native organisations need the right financial, identity, and governance tools to build trust and enable coordination. The coordination-stack is trying to solve that problem.
 
-Is it because decision-making becomes complicated and slows if there are ten co-founders? What if those ten people have varying voting power based on their contributions? Then, the #1 contributing founder can have ten voting powers vs. the #10th contributing founder. The point is if we could enable governance power and financial incentives to be modular, we can design different incentive alignments based on someone's efforts and impact.
+## Solution
 
-These conditions are much easier to put into code as part of a smart contract on a permissionless blockchain than creating different legal contracts to accommodate those ten founders to help the same cause, even when each single could add a non-zero-sum value to the organization.
+We are building multiple onchain stacks as part of the coordination-stack to enable internet-native organisations work at scale.
 
-### **Employees incentive misalignment**
+## Attribution stack
 
-In almost every organization, the output per employee decreases as the number of people increases. We see two main reasons for this.
+The 1st stack we are working on is called attribution stack. Attribution stack is the base layer of coordination stack.&#x20;
 
-1. Incentives are so skewed toward early contributors that there are almost no incentives for those who come after founders, 50 employees, or 500 employees.
-2. All traditional organizations try to rent an equal amount of time from each of their employees.
+The goal of attribution stack is to put contribution data onchain. Organisations upload points of all the contirbutors every month for a specific guild/tag. A guild can be dev/design/product management/marketing. And an organisation can create sub organisation to even further sub categorise guilds like Starknet Dev as organisation and backend/frontend as guilds. Points are computed offchain as different organisations and guild will have different frameworks to compute points. Attibution data remains immutable.
 
-Instead, what if
+## Financial stack
 
-1. Anyone can come and see what an organization needs right now.
-2. Anyone can see the financial or non-financial incentives for helping the organization with those needs.
+Financial stack helps organisation distribute incentives in a permissionless and transparant way using the attribution stack. For example an organisation can distribute 100k to dev guild and all the contributors in the dev guild can claim their precomputed rewards themselves based on their points earned for a particular period.
 
-In that scenario, anyone can contribute to a problem statement for that organization and move on.
+## Identity stack
 
-### **Funding problem**
+Identity stack helps contributors build their identity and as a result help them get access to more opportunities and influence over time. For example an organisation might decide to airdrop all the people who contributed to Starknet in a quantifiable way instead on relying on who made a typo commit in Starknet github. Or a founder can show a VC that she was the 1st engineer at Starknet and contributed meaningfully.&#x20;
 
-Whenever an organization is trying to raise funds, it faces multiple problems...
+## Governance stack
 
-* All investors want to invest but want to wait till someone else invests.
-* Some investors want to invest only once the startup has a lead investor.
-* Investors want promotors to sign terms to ensure they don't misspend their money.
-* Investors don't want promoters to sell their equity without getting their principal invested amount back.
+Governance stack helps created a modular governance framework to let organisations adopt different governance modules for different guild. For example an organisation might want to give higher power to design points for any design level decision or higher points to marketing guild points.&#x20;
 
-All these problems could be resolved using smart contracts, which allow you to create transparent incentives for investors to come first or write limits on fund withdrawals based on certain conditions, such as withdrawal amount, time, purpose, or milestones.
