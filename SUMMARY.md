@@ -7,8 +7,8 @@
 * [The vision of CoordinationLab](overview/the-vision-of-coordinationlab.md)
 * [The coordination stack](overview/stack/README.md)
   * [Attribution stack](overview/stack/attribution-stack.md)
-  * [Governance stack](overview/stack/governance-stack.md)
   * [Financial stack](overview/stack/financial-stack.md)
+  * [Governance stack](overview/stack/governance-stack.md)
   * [Fundraising stack](overview/stack/fundraising-stack.md)
 
 ***

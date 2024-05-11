@@ -14,7 +14,7 @@ Then, that organisation can use these immutable points to distribute governance 
 
 ## What are guilds?
 
-When an organisation assigns points to a contributor, it chooses a category for which it is assigning them. These categories are called guilds.
+When an organisation assigns points to a contributor, it chooses a category for which it assigns them. These categories are called guilds.
 
 Some examples of guilds
 
@@ -29,8 +29,6 @@ Guilds can be in the form of sub-guilds as well by creating an organisation for 
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-By having points onchain, anyone can see and verify the contribution history of a contributor to a particular org in a specific guild.
+By having points onchain, anyone can see and verify the contribution history of a contributor to a particular org in a specific guild. The attribution stack creates a coordination DNA for organisations and contributors, creating graph-like data for individuals and organisations.
 
-
-
-This enables an organisation to pre-define work so anyone from anywhere can pick it up and complete it. The organization can give points for completing the work based on effort and impact. As someone does more work, they earn contribution points.&#x20;
+This data is then used to experiment and create financial reward and governance models for the organisations. CoordinationLab is creating basic premitives in the form of [financial-stack.md](financial-stack.md "mention") and [governance-stack.md](governance-stack.md "mention") using this graph-like data.
